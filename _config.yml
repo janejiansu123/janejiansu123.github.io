@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Jane Su's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Jane Su
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Jane Su is a performance maker."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
